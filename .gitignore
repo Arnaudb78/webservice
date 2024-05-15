@@ -1,0 +1,17 @@
+__pycache__
+    - .gitignore
+    - README.md
+    - requirements.txt
+    - setup.py
+    - setup.cfg
+    - MANIFEST.in
+    - LICENSE
+    - .git
+    - .gitignore
+    - .gitattributes
+    - .travis.yml
+    - .coveragerc
+
+data/
+    - __init__.py
+    - data.csv
